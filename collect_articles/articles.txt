@@ -1,0 +1,986 @@
+Biographies, 206
+Arts and entertainment, 62
+Athletes and related, 6
+Muhammad Ali
+Michael Jordan
+Pelé
+Jackie Robinson
+Babe Ruth
+Jesse Owens
+Artists and architects, 11
+Giotto di Bondone
+Vincent van Gogh
+Michelangelo
+Claude Monet
+Pablo Picasso
+Raphael
+Rembrandt
+Auguste Rodin
+Leonardo da Vinci
+Andy Warhol
+Frank Lloyd Wright
+Music Biographies, 8
+Johann Sebastian Bach
+The Beatles
+Ludwig van Beethoven
+Cher
+Madonna
+Michael Jackson
+Wolfgang Amadeus Mozart
+Elvis Presley
+Performing arts misc, 6
+Mikhail Baryshnikov
+Charlie Chaplin
+Walt Disney
+Alfred Hitchcock
+Akira Kurosawa
+Bruce Lee
+Writers, 31
+Ancient world, 3
+Aeschylus
+Homer
+Virgil
+English language, 14
+Jane Austen
+Lord Byron
+Charles Dickens
+T. S. Eliot
+Ernest Hemingway
+James Joyce
+John Milton
+Edgar Allan Poe
+Ezra Pound
+William Shakespeare
+Walter Scott
+Mark Twain
+Walt Whitman
+W. B. Yeats
+Continental European languages, 13
+Dante Alighieri
+Jorge Luis Borges
+Miguel de Cervantes
+Fyodor Dostoyevsky
+Johann Wolfgang von Goethe
+Brothers Grimm
+Victor Hugo
+Henrik Ibsen
+Franz Kafka
+Marcel Proust
+José Rizal
+Leo Tolstoy
+Voltaire
+Other, 1
+Murasaki Shikibu
+Leaders and public figures, 71
+Politicians and leaders, 54
+Americas, 7
+Simón Bolívar
+Hernán Cortés
+Benjamin Franklin
+Thomas Jefferson
+Abraham Lincoln
+Franklin D. Roosevelt
+George Washington
+Asia and Africa, 18
+Africa, 4
+Cleopatra VII
+Hannibal
+Nelson Mandela
+Shaka
+Asia to 1000 AD, 4
+Cyrus the Great
+Hammurabi
+Qin Shi Huang
+Emperor Taizong of Tang
+Asia 1000 to 1899 AD, 5
+Akbar
+Genghis Khan
+Saladin
+Suleiman the Magnificent
+Timur
+Asia 20th century, 5
+Indira Gandhi
+Hirohito
+Ho Chi Minh
+Mao Zedong
+Imelda Marcos
+Europe, 29
+Ancient world to 500 AD, 5
+Alexander the Great
+Attila the Hun
+Augustus
+Constantine the Great
+Julius Caesar
+500 AD to 1600 AD, 6
+Charlemagne
+Charles V Holy Roman Emperor
+Frederick II Holy Roman Emperor
+Heraclius
+Ivan IV of Russia
+Philip II of Spain
+British Isles, 6
+Winston Churchill
+Edmund Burke
+Queen Elizabeth I
+Henry II of England
+Henry VIII of England
+William the Conqueror
+France, 3
+Joan of Arc
+Louis XIV of France
+Napoleon I of France
+Germany, 3
+Otto von Bismarck
+Frederick the Great
+Adolf Hitler
+Russia, 5
+Catherine the Great
+Mikhail Gorbachev
+Vladimir Lenin
+Peter I of Russia
+Joseph Stalin
+Elsewhere, 1
+Benito Mussolini
+Religious figures, 10
+Augustine of Hippo
+Gautama Buddha
+John Calvin
+Columba
+Francis of Assisi
+Jesus
+Martin Luther
+Muhammad
+Paul of Tarsus
+Zoroaster
+Revolutionaries and activists, 7
+Frederick Douglass
+Mahatma Gandhi
+Che Guevara
+Martin Luther King Jr.
+Margaret Sanger
+Mother Teresa
+Mary Wollstonecraft
+Thinkers and explorers, 73
+Explorers, 5
+Neil Armstrong
+Christopher Columbus
+Ferdinand Magellan
+Marco Polo
+Zheng He
+Inventors and scientists, 32
+Biologists and doctors, 6
+Hippocrates
+Charles Darwin
+Carolus Linnaeus
+Joseph Lister
+Gregor Mendel
+Louis Pasteur
+Inventors, 9
+Charles Babbage
+Alexander Graham Bell
+Louis Daguerre
+Thomas Edison
+Johannes Gutenberg
+Henry Ford
+Guglielmo Marconi
+Cai Lun
+Wright brothers
+Physical scientists, 17
+Nicolaus Copernicus
+Albert Einstein
+Michael Faraday
+Galileo Galilei
+Stephen Hawking
+Johannes Kepler
+Antoine Lavoisier
+James Clerk Maxwell
+Isaac Newton
+Alfred Nobel
+J. Robert Oppenheimer
+Linus Pauling
+Max Planck
+Ptolemy
+Ernest Rutherford
+Nikola Tesla
+James Watt
+Mathematicians, 9
+Archimedes
+Euclid
+Leonhard Euler
+Pierre de Fermat
+Carl Friedrich Gauss
+Muhammad ibn Mūsā al-Khwārizmī
+Gottfried Leibniz
+Blaise Pascal
+Pythagoras
+Philosophers, 18
+Ancient China, 3
+Confucius
+Laozi
+Sun Tzu
+Ancient Greece, 3
+Aristotle
+Plato
+Socrates
+Middle Ages and modern, 12
+Thomas Aquinas
+Francis Bacon
+René Descartes
+Thomas Hobbes
+David Hume
+Immanuel Kant
+Søren Kierkegaard
+John Locke
+Niccolò Machiavelli
+Friedrich Nietzsche
+Jean-Jacques Rousseau
+Henry David Thoreau
+Social scientists, 9
+Sigmund Freud
+Edward Gibbon
+Herodotus
+John Maynard Keynes
+Karl Marx
+Thomas Robert Malthus
+Adam Smith
+Thucydides
+Max Weber
+Culture and social sciences, 173
+Family Units, 11
+Family, 6
+Family
+Child
+Infant
+Man
+Marriage
+Woman
+Law, 5
+Law
+Constitution
+Crime
+Police
+Military
+Business and economics, 20
+Miscellaneous, 12
+Agriculture
+Advertising
+Business
+Economics
+Finance
+Market
+Management
+Manufacturing
+Marketing
+Supply and demand
+Trade
+Trade union
+Currency, 7
+Currency
+Euro
+Japanese yen
+Pound sterling
+Renminbi
+Indian rupee
+United States dollar
+Communication, 26
+Language, 18
+Alphabet
+Grammar
+Language
+article Writing
+Arabic language
+Chinese language
+English language
+Esperanto
+French language
+German language
+Hindi
+Japanese language
+Latin
+Portuguese language
+Russian language
+Sanskrit
+Sign language
+Spanish language
+Mass media, 8
+Mass media
+Book
+Comics
+Film
+Magazine
+Newspaper
+Radio
+Television
+Cuisine, 29
+Beverages, 9
+Drink
+Alcohol
+Beer
+Coffee
+Milk
+Soft drink
+Tea
+Water
+Wine
+Food, 17
+Food
+Bread
+Cheese
+Chocolate
+Seafood
+Fruit
+Cereal
+Legume
+Maize
+Meat
+Oat
+Black pepper
+Poultry
+Rice
+Soybean
+Vegetable
+Wheat
+International organizations, 11
+Arab League
+European Union
+International Monetary Fund
+International Red Cross and Red Crescent Movement
+NATO
+Nobel Prize
+OPEC
+United Nations
+World Bank Group
+World Health Organization
+World Trade Organization
+Leisure, 5
+Leisure
+Gambling
+Hobby
+Recreation
+Toy
+Games, 9
+Game
+Backgammon
+Chess
+Board game
+Card game
+Dice
+Draughts
+Go (game)
+Mancala
+Sports, 9
+Sport
+American football
+Athletics (sport)
+Baseball
+Cricket
+Football (soccer)
+Olympic Games
+Rugby football
+Tennis
+Politics, 17
+Politics
+Anarchism
+Capitalism
+Communism
+Democracy
+Dictatorship
+Diplomacy
+Fascism
+Globalization
+Government
+Imperialism
+Liberalism
+Monarchy
+Nationalism
+Socialism
+State
+Theocracy
+Social sciences, 7
+Social sciences
+Anthropology
+Archaeology
+Education
+Personal life
+Political science
+Sociology
+Psychology, 11
+Psychology
+Anger
+Consciousness
+Dream
+Emotion
+Fear
+Happiness
+Love
+Mind
+Sleep
+Thought
+Social issues, 15
+Abortion
+Addiction
+Birth control
+Capital punishment
+Civil liberties
+Civil rights
+Free will
+Human rights
+Peace
+Pornography
+Privacy
+Racism
+Sexism
+Slavery
+War
+Geography, 65
+General Geography, 65
+Miscellaneous, 9
+Geography
+City
+Continent
+Country
+List of sovereign states
+Desert
+Map
+Ocean
+River
+Continents and regions, 10
+Africa
+Antarctica
+Arctic
+Asia
+Europe
+Latin America
+Middle East
+North America
+Oceania
+South America
+Mountains valleys and deserts, 5
+Andes
+Himalayas
+Rocky Mountains
+Sahara
+Alps
+Bodies of water, 19
+Arctic Ocean
+Amazon River
+Atlantic Ocean
+Baltic Sea
+Black Sea
+Great Barrier Reef
+Great Lakes
+Indian Ocean
+Lake Baikal
+Lake Tanganyika
+Lake Titicaca
+Lake Victoria
+Mediterranean Sea
+Mississippi River
+Niagara Falls
+Nile
+North Sea
+Pacific Ocean
+Southern Ocean
+Cities, 23
+Athens
+Beijing
+Belfast
+Berlin
+Chicago
+Hong Kong
+Jerusalem
+London
+Los Angeles
+Mecca
+Melbourne
+Moscow
+Mumbai
+New Delhi
+New York City
+Paris
+Rome
+Saint Petersburg
+Shanghai
+Sydney
+Tokyo
+Toronto
+Washington D.C.
+Humanities, 162
+Arts, 17
+The arts, 8
+Art
+The arts
+Design
+Painting
+Photography
+Sculpture
+Dance
+Theatre
+Literature, 3
+Literature
+Novel
+Poetry
+Specific works, 6
+The Book of One Thousand and One Nights
+Republic (Plato)
+Epic of Gilgamesh
+Iliad
+Mahabharata
+Odyssey
+Architecture, 9
+Architecture
+Arch
+Bridge
+Church (building)
+Dome
+House
+Nail (engineering)
+Pyramid
+Tower
+Specific structures, 3
+Great Wall of China
+Taj Mahal
+Leaning Tower of Pisa
+History, 47
+General, 2
+History
+History of the world
+Prehistory to Middle Ages, 21
+Ancient Egypt
+Ancient Greece
+Ancient Rome
+Aztec
+Black Death
+Bronze Age
+Byzantine Empire
+Crusades
+East-West Schism
+Holy Roman Empire
+Indus Valley Civilization
+Iron Age
+Maya civilization
+Macedon
+Middle Ages
+Ottoman Empire
+Prehistory
+Spanish Inquisition
+Stone Age
+Sumer
+Viking
+Renaissance to Industrial Age, 23
+Age of Enlightenment
+American Civil War
+American Revolutionary War
+British Empire
+Cold War
+English Civil War
+European colonization of the Americas
+French Revolution
+Great Depression
+History of South Africa in the apartheid era
+The Holocaust
+Industrial Revolution
+Napoleonic Wars
+Protestant Reformation
+Renaissance
+Russian Civil War
+Russian Revolution of 1917
+Scramble for Africa
+Space exploration
+Spanish Civil War
+Vietnam War
+World War I
+World War II
+Music, 37
+General, 8
+Music
+Harmony
+Melody
+Music theory
+Musical notation
+Orchestra
+Rhythm
+Singing
+Genres, 10
+Baroque music
+Classical music
+Country music
+Folk music
+Hip hop music
+Jazz
+Opera
+Pop music
+Rhythm and blues
+Rock music
+Musical instrument, 18
+Musical instrument
+Brass instrument
+Cello
+Clarinet
+Drum
+Flute
+Guitar
+Harp
+Horn (aka "French horn")
+String instrument
+Organ (music)
+Piano
+Trombone
+Trumpet
+Tuba
+Viola
+Violin
+Woodwind instrument
+Philosophy, 11
+General, 11
+Philosophy
+Aesthetics
+Ethics
+Existence
+Feminism
+Humanism
+Knowledge
+Logic
+Morality
+Reality
+Truth
+Religion, 38
+General, 10
+Religion
+Agnosticism
+Atheism
+Deity
+Fundamentalism
+God
+Jainism
+Mythology
+Soul
+Spirituality
+Specific religions, 9
+Ayyavazhi
+Animism
+Bahá'í Faith
+Buddhism
+Confucianism
+Shinto
+Sikhism
+Taoism
+Zoroastrianism
+Christianity, 6
+Christianity
+Bible
+Catholicism
+Pope
+Protestantism
+Trinity
+Hinduism, 6
+Hinduism
+Bhagavad Gita
+Krishna
+Upanishad
+Vedas
+Yoga
+Islam, 3
+Islam
+Mosque
+Qur'an
+Judaism, 2
+Judaism
+Talmud
+Science math and technology, 162
+General Science, 5
+Miscellaneous, 5
+Science
+Ecology
+Natural science
+Pollution
+Scientific method
+Astronomy, 7
+Astronomy
+Big Bang
+Galaxy
+Milky Way
+Planet
+Star
+Universe
+Solar System, 11
+Solar System
+Sun
+Mercury
+Venus
+Earth
+Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Biology, 8
+Biology
+DNA
+Genetics
+Life
+Nature
+Photosynthesis
+Sex
+Taxonomy
+Anatomy, 10
+Anatomy
+Brain
+Circulatory system
+Human gastrointestinal tract
+Heart
+Liver
+Lung
+Nervous system
+Skin
+Skeleton
+Medicine, 15
+Medicine
+Blindness
+Cancer
+Gastroenteritis
+Hearing impairment
+HIV/AIDS
+Malaria
+Mental disorder
+Obesity
+Pneumonia
+Poliomyelitis
+Pregnancy
+Smallpox
+Surgery
+Tuberculosis
+Organisms, 10
+Organism
+Archaea
+Bacteria
+Eukaryote
+Animal
+Fungus
+Plant
+Protist
+Virus
+Extraterrestrial life
+Specific organisms, 20
+Cotton
+Flower
+Tobacco
+Tree
+Bird
+Dinosaur
+Fish
+Insect
+Reptile
+Shark
+Snake
+Mammal
+Bear
+Cattle
+Cat
+B-Class article Dog
+Primates
+Horse
+Human
+Whale
+Chemistry, 5
+Chemistry
+Chemical element
+Molecule
+Periodic table
+Salt
+Earth sciences, 5
+Geology
+Plate tectonics
+Mineral
+Diamond
+Oil
+Meteorology, 13
+Meteorology
+Avalanche
+Climate
+Cloud
+Earthquake
+El Niño-Southern Oscillation
+Flood
+Global warming
+Rain
+Tornado
+Tropical cyclone
+Volcano
+Weather
+Mathematics, 9
+Mathematics
+Algebra
+Calculus
+Calendar
+Game theory
+Geometry
+Number
+Set (mathematics)
+Trigonometry
+Physics, 24
+Physics
+Atom
+Atomic nucleus
+particle
+Force
+Gravitation
+Mass
+Matter
+Optics
+Phase (matter)
+Quantum mechanics
+Sound
+Speed
+Time
+Weight
+Energy
+Radiation
+Electromagnetic radiation
+Visible spectrum
+Special relativity
+General relativity
+Electromagnetism
+Standard Model
+Classical mechanics
+Technology, 20
+Technology
+Axe
+Fire
+Metallurgy
+Tool
+Electricity and Electronics
+Artificial intelligence
+Computer
+Internet
+Semiconductor
+Robot
+Transport
+Automobile
+Bicycle
+Ship
+Train
+Weapon
+Explosive material
+Firearm
+Gunpowder
+Chemical elements, 118
+Actinium
+Aluminium
+Americium
+Antimony
+Argon
+Arsenic
+Astatine
+Barium
+Berkelium
+Beryllium
+Bismuth
+Bohrium
+Boron
+Bromine
+Cadmium
+Caesium
+Calcium
+Californium
+Carbon
+Cerium
+Chlorine
+Chromium
+Cobalt
+Copernicium
+Copper
+Curium
+Darmstadtium
+Dubnium
+Dysprosium
+Einsteinium
+Erbium
+Europium
+Fermium
+Fluorine
+Francium
+Gadolinium
+Gallium
+Germanium
+Gold
+Hafnium
+Hassium
+Helium
+Holmium
+Hydrogen
+Indium
+Iodine
+Iridium
+Iron
+Krypton
+Lanthanum
+Lawrencium
+Lead
+Lithium
+Lutetium
+Magnesium
+Manganese
+Meitnerium
+Mendelevium
+Mercury
+Molybdenum
+Neodymium
+Neon
+Neptunium
+Nickel
+Niobium
+Nitrogen
+Nobelium
+Osmium
+Oxygen
+Palladium
+Phosphorus
+Platinum
+Plutonium
+Polonium
+Potassium
+Praseodymium
+Promethium
+Protactinium
+Radium
+Radon
+Rhenium
+Rhodium
+Roentgenium
+Rubidium
+Ruthenium
+Rutherfordium
+Samarium
+Scandium
+Seaborgium
+Selenium
+Silicon
+Silver
+Sodium
+Strontium
+Sulfur
+Tantalum
+Technetium
+Tellurium
+Terbium
+Thallium
+Thorium
+Thulium
+Tin
+Titanium
+Tungsten
+Ununhexium
+Ununoctium
+Ununpentium
+Ununquadium
+Ununseptium
+Ununtrium
+Uranium
+Vanadium
+Xenon
+Ytterbium
+Yttrium
+Zinc
+Zirconium
