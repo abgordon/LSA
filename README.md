@@ -1,1 +1,11 @@
-This is a vector-based model of semantic analysis.  It uses Singular Value Decomposition to eliminate insignificant terms in a vector space of terms and documents to analyze similarities.  This technique is commonly used in search engines and is a more sophisticated approach to Semantic analysis than a simple dictionary of terms and associated positive or negative values.
+# LSA
+Vector based semantic analysis
+
+This technique is a simple implementation of Latent Semantic Indexing to perform search queries.  Given a set of 100+ documents,
+the files included will process the documents by stemming and truncating them, transform them into term document vectors, 
+and perform a Singular Value Decomposition which removes noisy data and allows for a clearer image of how documents or 
+terms are related.  This technique is commonly used in search engines.
+
+More to come, stay tuned!
+
+-Andrew
