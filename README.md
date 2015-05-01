@@ -1,0 +1,1 @@
+This is a vector-based model of semantic analysis.  It uses Singular Value Decomposition to eliminate insignificant terms in a vector space of terms and documents to analyze similarities.  This technique is commonly used in search engines and is a more sophisticated approach to Semantic analysis than a simple dictionary of terms and associated positive or negative values.
