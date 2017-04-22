@@ -1,2 +1,3 @@
 articleJSON/*
+!articleJSON/.gitkeep
 node_modules
